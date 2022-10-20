@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>thw.au</title>
+  <icon>https://thw.au/icon.png</icon>
+  <subtitle>Tobias Wooldridge&#39;s site</subtitle>
+  <link href="https://thw.au/atom.xml" rel="self"/>
+  
+  <link href="https://thw.au/"/>
+  <updated>2022-10-20T07:05:28.176Z</updated>
+  <id>https://thw.au/</id>
+  
+  <author>
+    <name>Tobias Wooldridge</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Site Refresh</title>
+    <link href="https://thw.au/2022/10/20/site-refresh/"/>
+    <id>https://thw.au/2022/10/20/site-refresh/</id>
+    <published>2022-10-20T01:30:01.000Z</published>
+    <updated>2022-10-20T07:05:28.176Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I updated my site. Previously I was using a custom Symfony 2 install with a simple data model; but that was overkill for a blog (which I</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
